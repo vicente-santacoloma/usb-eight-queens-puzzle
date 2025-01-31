@@ -1,2 +1,2 @@
 # usb-eight-queens-puzzle
-Simón Bolívar University - CI3825 - Operating Systems I - Eight Queens Puzzle
+Universidad Simón Bolívar - CI3825 - Operating Systems I - Eight Queens Puzzle
